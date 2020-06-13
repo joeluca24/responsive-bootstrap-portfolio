@@ -1,0 +1,79 @@
+body {
+  background-color: #6d695c;
+  background-image:
+  repeating-linear-gradient(120deg, rgba(255,255,255,.1), rgba(255,255,255,.1) 1px, transparent 1px, transparent 60px),
+  repeating-linear-gradient(60deg, rgba(255,255,255,.1), rgba(255,255,255,.1) 1px, transparent 1px, transparent 60px),
+  linear-gradient(60deg, rgba(0,0,0,.1) 25%, transparent 25%, transparent 75%, rgba(0,0,0,.1) 75%, rgba(0,0,0,.1)),
+  linear-gradient(120deg, rgba(0,0,0,.1) 25%, transparent 25%, transparent 75%, rgba(0,0,0,.1) 75%, rgba(0,0,0,.1));
+  background-size: 70px 120px;
+}
+.header{
+  color: cornsilk;
+}
+
+
+img {
+   margin:100px;
+   margin-top:200px;
+   border: 2px solid black;
+   height: 250px;
+   width: 250px;
+ 
+}
+
+
+#img2 {
+background-color: green;
+margin-left:625px ;
+margin-right:625px ;
+
+}
+
+#img3{
+margin-left: 625px;
+margin-right: 625px;
+}
+
+p {
+    font-family: sans-serif;
+    color: black;
+    text-align: center;
+    margin-right:400px;
+    
+ 
+    
+}
+
+.description {
+  border: 2px solid black;
+  height: fit-content; 
+}
+
+nav {
+float: right;
+margin-right: 3px;
+}
+
+h1 {
+margin-left: 3px;
+
+
+}
+h2 {
+margin-left: 5px;
+} 
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
