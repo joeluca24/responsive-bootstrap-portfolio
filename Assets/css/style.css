@@ -7,6 +7,13 @@ body {
   linear-gradient(120deg, rgba(0,0,0,.1) 25%, transparent 25%, transparent 75%, rgba(0,0,0,.1) 75%, rgba(0,0,0,.1));
   background-size: 70px 120px;
 }
+
+body.bobs{
+  background-image: url('snow.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+
+}
 .header{
   color: cornsilk;
 }
@@ -22,17 +29,7 @@ img {
 }
 
 
-#img2 {
-background-color: green;
-margin-left:625px ;
-margin-right:625px ;
 
-}
-
-#img3{
-margin-left: 625px;
-margin-right: 625px;
-}
 
 p {
     font-family: sans-serif;
@@ -61,7 +58,10 @@ margin-left: 3px;
 }
 h2 {
 margin-left: 5px;
-} 
+}
+.card{
+margin:0px auto;
+}
 
 
 
